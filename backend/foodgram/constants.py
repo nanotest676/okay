@@ -1,0 +1,6 @@
+PAGE_SIZE: int = 10
+LIMIT: str = 'limit'
+MAX_PAGE_SIZE: int = 100
+
+SLICE_NAME_INGREDIENT: int = 30
+SLICE_NAME_TAG: int = 50
